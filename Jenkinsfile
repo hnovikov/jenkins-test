@@ -1,2 +1,2 @@
 print 'test'
-sh 'env`
+sh 'env'
