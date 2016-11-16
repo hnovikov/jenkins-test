@@ -1,2 +1,4 @@
 print 'test'
-sh 'env'
+node('master') {
+  sh 'env'
+}
